@@ -1,0 +1,1 @@
+This is sample project for asynchronous loading dds textures with Unity
